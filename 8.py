@@ -1,6 +1,3 @@
-from socket import dup
-
-
 def duplicate(lst):
     newlst=lst.copy()
     return newlst
